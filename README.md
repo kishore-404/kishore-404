@@ -1,7 +1,7 @@
 
 
 #  About Me:
-👋 Hi, I'm Kishore Kumar<br>💻 Full-Stack Web Developer(MERN) skilled in:  <br>- 🎯 Building dynamic and responsive web applications  <br>- 🎨 Crafting seamless front-end  <br>- ⚙️ Developing robust back-end systems for optimal performance  <br>- 🚀 Ensuring smooth functionality and user experience across platforms  
+👋 Hi, I'm Kishore Kumar<br>💻 web Developer(MERN) skilled in:  <br>- 🎯 Building dynamic and responsive web applications  <br>- 🎨 Crafting seamless front-end  <br>- ⚙️ Developing robust back-end systems for optimal performance  <br>- 🚀 Ensuring smooth functionality and user experience across platforms  
 
 
 ## 🌐 Socials:
